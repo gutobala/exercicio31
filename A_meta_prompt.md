@@ -1,4 +1,4 @@
-# Meta-prompt — Pesquisa estruturada para Service Blueprint AS-IS do serviço "Solicitar e acompanhar o Seguro-Desemprego" (trabalhador formal), com foco no canal telefônico/URA como via de acesso
+# Meta-prompt — Pesquisa estruturada para detalhadamento do que deve ser pesquisado para sustentar um Service Blueprint AS-IS, cobrindo escopo explícito de um serviço público concreto ("Solicitar e acompanhar o Seguro-Desemprego" do trabalhador formal, com foco no canal  telefônico/URA) e pedindo pesquisa estruturada que abranja jornada do cidadão, processos de bastidor, evidências, normativos e fail points.
 
 > Este é o **meta-prompt** usado na Parte A: o texto que pedi a um assistente de IA
 > para que ele **elaborasse** um prompt de deep research por mim — não a pesquisa em si,
