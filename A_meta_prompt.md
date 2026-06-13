@@ -1,4 +1,4 @@
-# Meta-prompt — Pesquisa estruturada para Service Blueprint AS-IS do Atendimento ao Seguro-Desemprego por canal telefônico/URA
+# Meta-prompt — Pesquisa estruturada para Service Blueprint AS-IS do serviço "Solicitar e acompanhar o Seguro-Desemprego" (trabalhador formal), com foco no canal telefônico/URA como via de acesso
 
 > Este é o **meta-prompt** usado na Parte A: o texto que pedi a um assistente de IA
 > para que ele **elaborasse** um prompt de deep research por mim — não a pesquisa em si,
@@ -7,11 +7,19 @@
 
 Você é um pesquisador sênior em **Service Blueprint no serviço público**, com 10 anos de experiência em **call center governamental, atendimento telefônico, URA, IA conversacional, roteamento de chamadas, operações de retaguarda e integração entre canais digitais e presenciais**.
 
-Seu objetivo é realizar uma **pesquisa estruturada, documental e evidencial** para sustentar a construção de um **Service Blueprint AS-IS** do serviço:
+Seu objetivo é realizar uma **pesquisa estruturada, documental e evidencial** para sustentar a construção de um **Service Blueprint AS-IS** de **um único serviço público concreto e nomeado**:
 
-> **Atendimento ao Seguro-Desemprego pela URA da Caixa**, entendido como uma jornada em que o cidadão liga, navega menus de voz, pode ser roteado por sistemas automatizados/IA ou atendente humano, e eventualmente obtém uma resposta sobre status do benefício, pagamento, agendamento, recurso, orientação ou encaminhamento a ponto de atendimento físico.
+> **Serviço (objeto único e delimitado): "Solicitar e acompanhar o Seguro-Desemprego" do trabalhador formal dispensado** — serviço federal de concessão do benefício Seguro-Desemprego, de responsabilidade do **Ministério do Trabalho e Emprego (MTE)**, disponibilizado no **Portal gov.br / Carteira de Trabalho Digital**, com pagamento operado pela **Caixa Econômica Federal** como agente pagador.
+>
+> A jornada vai da **solicitação** do benefício, pelo trabalhador formal recém-dispensado, até o **recebimento das parcelas** (ou o **recurso**, em caso de indeferimento/suspensão/cancelamento).
 
-A pesquisa deve ser feita **sem desenhar ainda o blueprint final**. O produto esperado é um relatório de insumos para posterior construção do Service Blueprint AS-IS.
+**Recorte do objeto — o que está dentro e o que está fora:**
+
+- O serviço é **um só** e tem nome próprio (Seguro-Desemprego do trabalhador formal). O **canal telefônico/URA** — Central **158 / Alô Trabalho** (MTE) e **0800** da Caixa — é investigado como **uma das vias de acesso a esse serviço único**, e **não** como um serviço à parte.
+- A hipótese inicial do exercício, **"URA da Caixa para Seguro-Desemprego"**, é tratada como **um canal a verificar dentro deste serviço** (ver §1), não como o objeto da pesquisa.
+- **Fora de escopo:** outras políticas trabalhistas (abono salarial, FGTS, intermediação de mão de obra) e **outras modalidades** do Seguro-Desemprego (pescador artesanal/seguro-defeso, bolsa-qualificação) — citadas apenas quando ajudarem a delimitar a fronteira do serviço estudado.
+
+O foco do blueprint é, portanto, **um serviço nomeado e delimitado** (Seguro-Desemprego do trabalhador formal), e não o ecossistema trabalhista como um todo. A pesquisa deve ser feita **sem desenhar ainda o blueprint final**. O produto esperado é um relatório de insumos para posterior construção do Service Blueprint AS-IS.
 
 ---
 
@@ -59,7 +67,27 @@ A pesquisa deve permitir responder:
 
 ## 3. Escopo do serviço a pesquisar
 
-Pesquisar o ecossistema operacional relacionado ao **Seguro-Desemprego** nos seguintes recortes:
+A pesquisa tem **um único objeto delimitado**: o serviço **"Solicitar e acompanhar o Seguro-Desemprego" do trabalhador formal**, investigado com foco na **via de acesso telefônica/URA** (158 / Alô Trabalho do MTE e 0800 da Caixa).
+
+**A pesquisa deve ser estruturada, documental e evidencial, com a finalidade explícita de sustentar a posterior construção de um Service Blueprint AS-IS.** Para isso, ela é obrigatoriamente organizada para levantar, de forma direta e cruzada, **todas** as camadas que compõem um Service Blueprint, a saber:
+
+1. **Ações e jornada do cidadão (frontstage)** — o que o cidadão faz, vê, ouve, recebe e espera em cada etapa;
+2. **Processos de bastidor (backstage)** — quem faz o quê fora da vista do cidadão, com quais sistemas, bases de dados e órgãos atuando na retaguarda;
+3. **Evidências físicas e digitais** — todo artefato que o cidadão apresenta, recebe ou consulta em cada etapa (telas, protocolos, notificações, comprovantes, áudios de URA, mensagens etc.);
+4. **Normativos aplicáveis** — leis, resoluções, normas e instrumentos que regem cada etapa, com citação precisa do dispositivo e da etapa que ele sustenta;
+5. **Fail points / gargalos conhecidos ou prováveis** — pontos de ruptura, fricção, ambiguidade, transbordo, abandono, erro de informação ou presencialização indesejada, sempre classificados por nível de evidência.
+
+Essas cinco camadas são as **dimensões estruturantes do Service Blueprint AS-IS** (também enumeradas na §2) e nenhuma delas é opcional: a pesquisa só será considerada suficiente quando reunir insumos para todas. Não se pesquisa o ecossistema trabalhista como um todo; os recortes a seguir existem **apenas na medida em que tocam esse serviço** e servem para alimentar diretamente uma ou mais dessas dimensões:
+
+Onde cada dimensão é detalhada neste meta-prompt:
+
+- **(1) Frontstage / jornada do cidadão** → §3.2 e §4.1;
+- **(2) Backstage / processos de bastidor** → §3.3 e §4.2;
+- **(3) Evidências físicas e digitais** → §4.3;
+- **(4) Normativos aplicáveis** → §4.4;
+- **(5) Fail points / gargalos** → §4.5.
+
+Cada recorte abaixo deve ser pesquisado de modo a alimentar diretamente uma ou mais dessas dimensões — e não como levantamento genérico do tema. Recortes:
 
 ### 3.1 Canais de entrada e orientação
 
